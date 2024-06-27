@@ -15,8 +15,8 @@ We prioritize the security of our users and recommend upgrading to a supported v
 | Version | Supported          | End of Life (EOL)  | Disclaimer                                                               |
 | ------- | ------------------ | ------------------ | -------------------------------------------------------------------------|
 | 2.0.x   | :x:                | Not yet announced  | none                                                                     |
-| 1.0.x   | :x:                | Planned            | none                                                                     |
-| < 1.0   | :x:                | Planned            | **Use at Your Own Risk**                                                 |
+| 1.0.x   | :x:                | Not yet announced  | none                                                                     |
+| < 1.0   | :x:                | Not yet announced  | **Use at Your Own Risk**                                                 |
 
 Note: We recommend staying up-to-date with the latest version to benefit from the most recent security fixes and enhancements.
 
